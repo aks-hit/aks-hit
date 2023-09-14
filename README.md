@@ -3,7 +3,7 @@
 <h3 align="center">Building ML models to solve real world problems</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img align="left" src="https://github.com/aks-hit/aks-hit/blob/main/_RJA1681.jpeg" alt="aks-hit" height="360" width="400" /> </p>
+<p align="left"> <img align="left" src="https://github.com/aks-hit/aks-hit/blob/main/_RJA1681.jpeg" alt="aks-hit" height="330" width="300" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
