@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **champakshitsingh@gmail.com**
 
-- ⚡ Fun fact **I am a Basketball player**
+- ⚡ Fun fact: **I am a Basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
